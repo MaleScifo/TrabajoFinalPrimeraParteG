@@ -1,0 +1,77 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #D1BF91;
+}
+a{
+    text-decoration: none;
+}
+.divportada{
+ background-color: #60371E;
+ display: flex;
+ flex-wrap: nowrap;
+ justify-content: space-around;
+ font-size: 30px;
+ padding: 7px;
+}
+
+.divportada > div {
+    border-radius: 5px;
+    background-color: #F9C743;
+    padding: 7px;
+}
+
+.contenido{
+    background-color: ;
+    font-size: 30;px
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.contenido > p{
+    font-size: large;
+}
+
+.pizzeria{
+    background-color: #A6341B;
+    border-radius: 5px;
+    display: flex;
+    font-size: 30px;
+    height: 200px;
+    margin: 10px 50px 10px 50px;
+}
+
+.imgbanchero{
+    margin: 20px;
+    height: 160px;
+    width: 160px;
+}
+
+.textobanchero{
+    background-color: #D1BF91;
+    margin: 15px;
+    font-size: 20px;
+    border-radius: 2px;
+    vertical-align: center;
+}
+
+.form{
+    background-color: #F9C743;
+    margin: 30px 300px 30px 300px;
+    height: 400px;
+    border-radius: 5px;
+
+}
+
+.contact{
+    text-align: center;
+}
+
+.formulariocontacto{
+    text-align: right;
+    margin-right: 200px;
+    vertical-align: top;
+}
